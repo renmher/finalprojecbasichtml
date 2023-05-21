@@ -1,0 +1,4 @@
+[[redirects]]
+from = "server/"
+to = "client/"
+status = 200
