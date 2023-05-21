@@ -1,4 +1,4 @@
 [[redirects]]
-from = "server/*"
-to = "client/:splat"
+from = "/*"
+to = "client/"
 status = 200
