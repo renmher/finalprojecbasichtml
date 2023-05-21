@@ -1,4 +1,4 @@
 [[redirects]]
-from = "server/"
+from = "server/db.json"
 to = "client/"
 status = 200
